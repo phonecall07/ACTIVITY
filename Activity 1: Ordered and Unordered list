@@ -1,0 +1,76 @@
+
+<font>
+
+<ul>
+<li>MATHEMATICS</li>
+
+    <ol type="1" start="4">
+    <li>ALGEBRA</li>
+
+<ul>
+    <li>ADDITION</li>
+    <li>SUBTRACTION</li>
+
+</ul>
+
+    <li>TRIGOMETRY</li>
+
+    <ol type="a" start="13">
+    <li>triangle</li>
+    <li>angle</li>
+    </ol>
+
+</ol>
+<li>COMPUTER</li>
+
+    <ol type="1" start="9">
+    <li>HARDWARE</li>
+
+<ul type="disc">
+<li>MOUSE</li>
+</ul>
+
+<ol type="a" start="13">
+<li>triangle</li>
+<li>angle</li> </ol>
+</ol>
+
+<li>COMPUTER</li>
+
+<ol type="1" start="9">
+<li>HARDWARE</li>
+</ol>
+
+<ul type="disc">
+<li>MOUSE</li>
+<li>KEYBOARD</li>
+<li>CPU</li>
+</ul>
+
+<li>SOFTWARE</li>
+
+<ol type="A"starte"13">
+<li>WORD</li>
+<li>EXCEL</li>
+<li>PHP</li>
+</ol>
+
+<ol type="1" start="9">
+<li>HARDWARE</li>
+<ul type="disc">
+<li>MOUSE</li>
+<li>KEYBOARD</li>
+<li>CPU</li>
+</ul>
+
+<li>SOFTWARE</li>
+
+<ol type="A"start="13">
+<li>WORD</li>
+<li>EXCEL</li> <li>PHP</li>
+</ol>
+
+</ol>
+
+</ul>
+</font>
